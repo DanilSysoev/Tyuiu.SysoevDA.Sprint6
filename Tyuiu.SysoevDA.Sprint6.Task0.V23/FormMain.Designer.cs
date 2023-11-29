@@ -78,6 +78,7 @@ namespace Tyuiu.SysoevDA.Sprint6.Task0.V23
             this.textBoxTask_SDA.Size = new System.Drawing.Size(278, 78);
             this.textBoxTask_SDA.TabIndex = 0;
             this.textBoxTask_SDA.Text = "Дано выражение вычислить его значение при x = 3.";
+            this.textBoxTask_SDA.TextChanged += new System.EventHandler(this.textBoxTask_SDA_TextChanged);
             // 
             // groupBoxInput_SDA
             // 
