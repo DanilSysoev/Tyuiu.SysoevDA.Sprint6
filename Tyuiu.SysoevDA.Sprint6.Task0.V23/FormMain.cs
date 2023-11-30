@@ -44,10 +44,5 @@ namespace Tyuiu.SysoevDA.Sprint6.Task0.V23
         {
             MessageBox.Show("Таск 0 выполнил студент группы ПКТБ-23-1 Сысоев Данил Алексеевич", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
-
-        private void textBoxTask_SDA_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
