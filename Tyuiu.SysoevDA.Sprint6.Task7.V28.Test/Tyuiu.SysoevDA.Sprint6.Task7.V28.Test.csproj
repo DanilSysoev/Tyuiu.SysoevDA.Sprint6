@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.SysoevDA.Sprint6.Task7.28.Lib\Tyuiu.SysoevDA.Sprint6.Task7.V28.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.SysoevDA.Sprint6.Task7.V28.Lib\Tyuiu.SysoevDA.Sprint6.Task7.V28.Lib.csproj">
       <Project>{074b0321-e73c-475c-a54c-b0fa9bec2e46}</Project>
       <Name>Tyuiu.SysoevDA.Sprint6.Task7.V28.Lib</Name>
     </ProjectReference>
